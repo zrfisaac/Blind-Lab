@@ -1,0 +1,25 @@
+# : en,es,fr,it,pt,ja
+
+# : - Exit
+[speaker:Kimberly] Exit
+[speaker:Mia] Salir
+[speaker:Lea] Sortir
+[speaker:Bianca] Uscire
+[speaker:Ines] Sair
+[speaker:Mizuki] エグジット
+
+# : - Help
+[speaker:Kimberly] Help
+[speaker:Mia] Ayuda
+[speaker:Lea] Aide
+[speaker:Bianca] Aiuto
+[speaker:Ines] Ajuda
+[speaker:Mizuki] ヘルプ
+
+# : - Menu
+[speaker:Kimberly] Menu
+[speaker:Mia] Menú
+[speaker:Lea] Menu
+[speaker:Bianca] Menù
+[speaker:Ines] Menu
+[speaker:Mizuki] メニュー

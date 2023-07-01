@@ -1,0 +1,25 @@
+# : en,es,fr,it,pt,ja
+
+# : - RelaxLaterWillExplain01
+[speaker:Kimberly] Relax. Later, I will explain to you how you woke up here. For now, just follow the instructions.
+[speaker:Mia] Relájate. Más tarde, te explicaré cómo despertaste aquí. Por ahora, simplemente sigue las instrucciones.
+[speaker:Lea] Détendez-vous. Plus tard, je vous expliquerai comment vous vous êtes réveillé(e) ici. Pour l'instant, suivez simplement les instructions.
+[speaker:Bianca] Rilassati. Più tardi ti spiegherò come sei arrivato/a qui. Per ora, segui semplicemente le istruzioni.
+[speaker:Ines] Relaxe. Mais tarde, vou te explicar como você acordou aqui. Por enquanto, apenas siga as instruções.
+[speaker:Mizuki] リラックスしてください。後で、ここに目が覚めた経緯を説明します。今のところは、指示に従ってください
+
+# : - FirstTryMoveForward01
+[speaker:Kimberly] First, try to swipe up the screen to move forward.
+[speaker:Mia] Primero, intenta deslizar hacia arriba la pantalla para avanzar.
+[speaker:Lea] Tout d'abord, essayez de faire glisser votre doigt vers le haut de l'écran pour avancer.
+[speaker:Bianca] Prima di tutto, prova a scorrere verso l'alto lo schermo per avanzare.
+[speaker:Ines] Primeiro, tente deslizar o dedo para cima na tela para avançar.
+[speaker:Mizuki] まず、画面を上にスワイプして前に進んでみてください
+
+# : - YouHaveBeenChosen01
+[speaker:Kimberly] You have been chosen to be part of a great experiment.
+[speaker:Mia] Has sido elegido para formar parte de un gran experimento.
+[speaker:Lea] Vous avez été choisi pour faire partie d'une grande expérience.
+[speaker:Bianca] Sei stato scelto per far parte di un grande esperimento.
+[speaker:Ines] Você foi escolhido para fazer parte de um grande experimento.
+[speaker:Mizuki] 偉大な実験の一部として選ばれました

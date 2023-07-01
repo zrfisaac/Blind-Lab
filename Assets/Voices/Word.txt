@@ -1,0 +1,17 @@
+# : en,es,fr,it,pt,ja
+
+# : - Congratulation
+[speaker:Kimberly] Congratulations
+[speaker:Mia] Felicidades
+[speaker:Lea] Félicitations
+[speaker:Bianca] Congratulazioni
+[speaker:Ines] Parabéns
+[speaker:Mizuki] おめでとうございます
+
+# : - Welcome
+[speaker:Kimberly] Welcome to Blind Lab
+[speaker:Mia] Bienvenido a Blind Lab
+[speaker:Lea] Bienvenue au Blind Lab
+[speaker:Bianca] Benvenuto al Blind Lab
+[speaker:Ines] Bem Vindo a Blind Lab
+[speaker:Mizuki] ブラインドラボへようこそ
